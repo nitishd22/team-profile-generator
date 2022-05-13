@@ -14,7 +14,6 @@ This application takes in data in order to store a team's ID, email, school, Git
  node index.js
 
 # Resources
-- SQL
 - Javascript
 - Jest
 - Inquirer
