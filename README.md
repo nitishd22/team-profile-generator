@@ -13,6 +13,10 @@ This application takes in data in order to store a team's ID, email, school, Git
  type in:
  node index.js
 
+# Demonstration
+
+https://www.youtube.com/watch?v=4-etdpHnaiI
+
 # Resources
 - SQL
 - Javascript
