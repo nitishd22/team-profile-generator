@@ -18,7 +18,6 @@ This application takes in data in order to store a team's ID, email, school, Git
 https://www.youtube.com/watch?v=4-etdpHnaiI
 
 # Resources
-- SQL
 - Javascript
 - Jest
 - Inquirer
